@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 143114005
+Nama  : M Iqbal Syauqi
+Kelas : MI-2D
 
 Dengan ini menyatakan:
 
